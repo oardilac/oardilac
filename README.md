@@ -2,7 +2,8 @@
 <h3 align="center">A passionate data scientist from Colombia</h3>
 
 👯 I’m looking to collaborate on Data (Science, analyst, Engineer) projects<br>
-👷 Passionate engineer 👨🏽‍💻 I enjoy creating software.
+👷 Passionate engineer 
+👨🏽‍💻 I enjoy creating software.
 🌱 I’m currently learning Data Science ralated libraries<br>
 💬 Ask me about whatever you want<br>
 👨🏽‍💻 I exercise mentally with coding and physically in the gym.
