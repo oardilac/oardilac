@@ -1,55 +1,68 @@
-# 💫 About Me:
-<h3 align="center">A passionate data scientist from Colombia</h3>
+# Hi 👋, I'm Oliver David Ardila Cueto
 
-👯 I’m looking to collaborate on Data (Science, analyst, Engineer) projects<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oardilac&label=Profile%20views&color=0e75b6&style=flat" alt="oardilac" /> </p>
 
-👷 Passionate engineer 
+## About me 
+Accomplished Data Professional and passionate Data Engineer from Colombia</h3>
 
-👨🏽‍💻 I enjoy creating software.
+💼 Currently, I am an Instructor at [DataPath](https://datapath.ai/) where I am coaching students, developing and implementing hands-on, project-based learning approaches.
 
-🌱 I’m currently learning Data Science ralated libraries<br>
+👯 I’m looking to collaborate on Data (Science, analyst, Engineer) projects.<br>
 
-💬 Ask me about whatever you want<br>
+💬 Feel free to ask me about anything related to **Data Science, Machine Learning, Deep Learning, SQL, Cloud Computing**.
 
-👨🏽‍💻 I exercise mentally with coding and physically in the gym.
-
-⚡ Fun fact, I do gymnastics as well
+💪 Outside of coding, I enjoy physical exercise and gymnastics.
 
 🧠 Learning about Economics & Politics fascinates me.
 
-## About:
-My name is Oliver Ardila Cueto. I am an Electronic Engineer at Universidad del Norte. I have experience working in Python, Machine Learning, Deep Learning and MySQL. My Physics degree would provide a great background doing Machine Learning for physical sciences. My aim is to become a good Data Scientist
+### Languages and Tools:
 
-## Skills:
+#### Programming Languages:
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
 
-###  Data Science : 
-Python, Machine Learning, Deep Learning, Tensorflow, Scikit-Learn, Pandas, Matplotlib, Seaborn , Numpy, Scipy
+#### Tools:
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 
-###  Machine Learning Algorithms:
+#### Databases:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
-Linear Regression, Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Random Forest Regression, Bagging Regression.
+#### Machine Learning Libraries:
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 
-###  Web Framework:
-Flask
+#### Cloud Platforms:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+<br/>
+<br/>
 
- ###  Tools:
- Jupyter Notebook, Pycharm, MySQL, Excel, Vs Code
- 
- ### Version Control:
- Git & GitHub
+## 📚 Currently Learning:
+* Advanced Data Science libraries
 
-###  Operating System:
-Windows, Linux
+<a href="https://github.com/oardilac">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oardilac&theme=algolia&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oardilac&theme=algolia&layout=compact" />
+</a>
+<br/>
 
-### General Skills :
-
-Data Visualization, Pattern Recognition, image processing, Data Preparation, Database Structures
-and algorithms, Web scraping, Mathmatics, Reasoning, Critical Thinking
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-:chart_with_upwards_trend: GitHub Stats
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oardilac">
- <img src="https://github-readme-stats.vercel.app/api?username=oardilac">
+<p align="center">
+<a href="https://github.com/oardilac"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-oardilac-blue?style=flat-square&logo=github"></a>
+<a href="https://www.linkedin.com/in/oardilac/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oliver%20David%20Ardila%20Cueto-blue?style=flat-square&logo=linkedin"></a>
+</p>
