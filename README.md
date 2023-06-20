@@ -38,7 +38,7 @@ Accomplished Data Professional and passionate Data Engineer from Colombia</h3>
 * Advanced Data Science libraries
 
 <a href="https://github.com/oardilac">
-   <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oardilac&layout=compact&langs_count=16&theme=dracula"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oardilac&theme=algolia"/>
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oardilac&theme=algolia">
 </a>
 <br/>
