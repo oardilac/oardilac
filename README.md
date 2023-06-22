@@ -38,12 +38,12 @@ Accomplished Data Professional and passionate Data Engineer from Colombia</h3>
 * Advanced Data Science libraries
 
 <a href="https://github.com/oardilac">
-   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oardilac&layout=compact&langs_count=16&theme=algolia"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oardilac&theme=algolia&show_icons=true"/>
    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=oardilac&theme=algolia">
 </a>
 <br/>
 
 <p align="center">
-<a href="https://github.com/oardilac"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-oardilac-blue?theme=algolia&show_icons=true"></a>
+<a href="https://github.com/oardilac"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-oardilac-blue?style=flat-square&logo=github"></a>
 <a href="https://www.linkedin.com/in/oardilac/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oliver%20David%20Ardila%20Cueto-blue?style=flat-square&logo=linkedin"></a>
 </p>
