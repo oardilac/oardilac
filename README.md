@@ -44,6 +44,6 @@ Accomplished Data Professional and passionate Data Engineer from Colombia</h3>
 <br/>
 
 <p align="center">
-<a href="https://github.com/oardilac"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-oardilac-blue?style=flat-square&logo=github"></a>
+<a href="https://github.com/oardilac"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-oardilac-blue?theme=algolia&show_icons=true"></a>
 <a href="https://www.linkedin.com/in/oardilac/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oliver%20David%20Ardila%20Cueto-blue?style=flat-square&logo=linkedin"></a>
 </p>
