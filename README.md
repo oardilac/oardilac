@@ -5,7 +5,7 @@
 ## About me 
 Accomplished Data Professional and passionate Data Engineer from Colombia</h3>
 
-💼 Currently, I am an Instructor at [DataPath](https://datapath.ai/) where I am coaching students, developing and implementing hands-on, project-based learning approaches.
+💼 Currently, I am working at [TuMaquinaYa](https://www.tumaquinaya.com/) where I am the CTO.
 
 👯 I’m looking to collaborate on Data (Science, analyst, Engineer) projects.<br>
 
